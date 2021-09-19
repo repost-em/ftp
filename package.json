@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "axios": "^0.21.4",
+    "cookie-session": "^1.4.0",
+    "date-format": "^3.0.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "mutasi-bca": "^1.1.4",
+    "mysql2": "^2.3.0",
+    "node-fetch": "^3.0.0",
+    "slimbot": "^5.1.0"
+  }
+}
